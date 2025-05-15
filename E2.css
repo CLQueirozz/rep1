@@ -1,0 +1,45 @@
+body{
+    background-color: #6cd7ba;
+}
+
+h2{
+    size: 25px;
+    color: white;
+}
+
+#lista{
+    display: flex;
+    background-color: white;
+    border: 5px solid hotpink;
+    width: 90%;
+       
+}
+.imp1 {
+    color: hotpink;
+}
+
+#l1 {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.imp2 {
+    color: hotpink;
+}
+
+#l2 {
+  display: flex;
+  flex-direction: column-reverse;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.imp3 {
+    color: hotpink;
+}
+#l3 {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+
